@@ -1,0 +1,29 @@
+{
+  "name": "pitunes",
+  "version": "1.0.0",
+  "description": "Raspberry Pi Itunes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Will0489/pitunes.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "music",
+    "slack",
+    "bot",
+    "youtube",
+    "song",
+    "mp3"
+  ],
+  "author": "William Blommaert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Will0489/pitunes/issues"
+  },
+  "homepage": "https://github.com/Will0489/pitunes#readme"
+}
