@@ -27,6 +27,8 @@
   },
   "homepage": "https://github.com/Will0489/pitunes#readme",
   "dependencies": {
+    "http": "0.0.0",
+    "https": "^1.0.0",
     "slackbots": "^0.5.1",
     "sqlite3": "^3.1.4"
   }
