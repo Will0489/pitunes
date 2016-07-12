@@ -2,7 +2,7 @@ var Bot = require('slackbots');
 var https = require('https');
 
 var settings = {
-    token : 'xoxb-58513751604-WTUvZ19y2eq1mWz5UGEOLayt',
+    token : '',
     name : 'Pitunes'
 }
 var channel_name = 'djrazzberr-e';
